@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=eventos
+comment2.target=void\ exibirMenu(Evento[])
+comment3.params=
+comment3.target=void\ exibirMenuVisita()
+comment4.params=eventos
+comment4.target=void\ exibirTodosEventos(Evento[])
+comment5.params=evento
+comment5.target=void\ exibirInformacoesEvento(Evento)
+comment6.params=evento
+comment6.target=void\ comprarIngresso(Evento)
+comment7.params=eventos
+comment7.target=void\ relatorio(Evento[])
+numComments=8

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ingresso
+comment1.params=preco
+comment1.target=Ingresso(double)
+comment2.params=valorPago\ quantidadeIngressos
+comment2.target=boolean\ comprarOnline(double,\ int)
+comment3.params=valorPago\ quantidadeIngressos
+comment3.target=double\ comprarPresencial(double,\ int)
+comment4.params=quantidadeIngressos\ assentosDisponiveis
+comment4.target=boolean\ verificarDisponibilidade(int,\ int)
+comment5.params=
+comment5.target=double\ getPreco()
+comment6.params=preco
+comment6.target=void\ setPreco(double)
+numComments=7

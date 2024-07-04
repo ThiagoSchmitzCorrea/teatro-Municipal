@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Visita
+comment1.params=numHorarios
+comment1.target=Visita(int)
+comment2.params=horario\ vagasDisponiveis
+comment2.target=void\ adicionarHorario(java.lang.String,\ int)
+comment3.params=array
+comment3.target=int\ procurarIndiceVazio(java.lang.String[])
+comment4.params=horario
+comment4.target=boolean\ agendarVisita(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String[]\ getHorariosDisponiveis()
+comment6.params=horariosDisponiveis
+comment6.target=void\ setHorariosDisponiveis(java.lang.String[])
+comment7.params=
+comment7.target=int[]\ getVagasDisponiveis()
+comment8.params=vagasDisponiveis
+comment8.target=void\ setVagasDisponiveis(int[])
+numComments=9
